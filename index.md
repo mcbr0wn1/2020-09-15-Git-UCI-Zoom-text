@@ -11,8 +11,8 @@ latitude: "45"        # decimal latitude of workshop venue (use https://www.latl
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "FIXME"    # human-readable dates for the workshop (e.g., "Sep 16, 2020")
 humantime: "FIXME"    # human-readable times for the workshop (e.g., "12:00 pm - 1:00 pm")
-startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2020-09-16
+enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2020-09-16
 instructor: ["instructor one", "instructor two"] # boxed, comma-separated list of instructors' names as strings, like ["Mitchell Brown", "Danielle Kane", "Wasila Dahdub"]
 helper: ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Shu Lui"]
 email: ["first@example.org","second@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["mcbrown@uci.edu", "kaned@uci.edu", "mcbrown1@gmail.com"]
